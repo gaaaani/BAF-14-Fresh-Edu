@@ -1,9 +1,4 @@
 # BAF-14-Fresh-Edu
-## 
-### 코드 넣어봐
-
-``` python
-print()
-for x in var:
-    x += 1
+# 비어플 14기
+# 신입세션 진행
 ```
